@@ -1,0 +1,20 @@
+{
+  "name": "remove-duplicates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shameez92/RemoveDups.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shameez92/RemoveDups/issues"
+  },
+  "homepage": "https://github.com/shameez92/RemoveDups#readme"
+}
